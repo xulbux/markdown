@@ -3,7 +3,7 @@
 <div align="center">
 <br><br>
 <h1>
-<a href="#"><img height="96" src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/md-mark.svg"></a>
+<a href="#"><img width="128" height="96" src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/md-mark.svg"></a>
 <br>
 Ultimate Markdown Cheat Sheet
 <br><br>
@@ -12,26 +12,28 @@ Ultimate Markdown Cheat Sheet
 <br><br>
 </div>
 
----
+<span id="table-of-contents"></span>
 
-## Table of Contents <img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/list.svg" width="28" height="28" alt="" />
+## Table of Contents<a href="#table-of-contents"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/list.svg" width="28" height="28" align="right" /></a>
 
--   [Basic Formatting](#basic-formatting) (Headings, Bold, Italic, etc.)
--   [Lists & Tasks](#lists--tasks) (Unordered, Ordered, Task Lists)
--   [Links & Media](#links--media) (URLs, Images, Anchors)
--   [Quotes & Code](#quotes--code) (Blockquotes, Inline Code, Code Blocks)
--   [Structure](#structure) (Tables, Horizontal Rules)
--   [Advanced & GFM Features](#advanced--gfm-features-l) [\[L\]](#limited-support) (Alerts, Mermaid, Math, HTML)
+-   [**Basic Formatting**](#basic-formatting) – Headings, Bold, Italic, etc.
+-   [**Lists & Tasks**](#lists-tasks) – Unordered, Ordered, Task Lists
+-   [**Links & Media**](#links-media) – URLs, Images, Anchors
+-   [**Quotes & Code**](#quotes-code) – Blockquotes, Inline Code, Code Blocks, Escaping
+-   [**Structure**](#structure) – Tables, Horizontal Rules
+-   [**Advanced & GFM Features**](#advanced-gfm-features) – Alerts, Mermaid, Math, HTML
 
 <span id="limited-support"></span>
 
-> Features with limited support across different Markdown parsers are marked with **[\[L\]](#limited-support)**.
-
----
+> Features with limited support across different Markdown parsers are marked with **[[L]](#limited-support)**.
 
 <br>
+<br>
+<br>
 
-## Basic Formatting <img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/pen-tool.svg" width="28" height="28" alt="" />
+<span id="basic-formatting"></span>
+
+## Basic Formatting<a href="#basic-formatting"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/pen-tool.svg" width="28" height="28" align="right" /></a>
 
 <br>
 
@@ -51,6 +53,8 @@ Headings help structure your document. Use `#` for levels 1-6.
 
 ###### Header 6
 
+<br>
+
 ```markdown
 # Header 1
 ## Header 2
@@ -66,9 +70,9 @@ Headings help structure your document. Use `#` for levels 1-6.
 
 Make your text stand out with basic formatting.
 
-**Bold Text**: Space is **vast and empty**.
-*Italic Text*: The stars are *beautifully bright*.
-***Bold & Italic***: The universe is ***constantly expanding***!
+**Bold Text**: Space is **vast and empty**.<br>
+*Italic Text*: The stars are *beautifully bright*.<br>
+***Bold & Italic***: The universe is ***constantly expanding***!<br>
 ~~Strikethrough~~: Pluto is ~~a major planet~~ a dwarf planet.
 
 ```markdown
@@ -84,19 +88,19 @@ Make your text stand out with basic formatting.
 
 If you want to type symbols like `*` or `_` without triggering formatting, use a backslash `\`.
 
-\*This text will not be italicized\*
+\*This text will not be italicized.\*
 
 ```markdown
-\*This text will not be italicized\*
+\*This text will not be italicized.\*
 ```
 
 <br>
-
----
-
+<br>
 <br>
 
-## Lists & Tasks <img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/list-todo.svg" width="28" height="28" alt="" />
+<span id="lists-tasks"></span>
+
+## Lists & Tasks<a href="#lists-tasks"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/list-todo.svg" width="28" height="28" align="right" /></a>
 
 <br>
 
@@ -106,15 +110,15 @@ Use `*`, `-`, or `+` for bullet points.
 
 *   Launch preparations
 *   Engine check
-    *   Fuel levels nominal
-    *   Thrusters engaged
+    -   Fuel levels nominal
+    -   Thrusters engaged
 *   Liftoff!
 
 ```markdown
 *   Launch preparations
 *   Engine check
-    *   Fuel levels nominal
-    *   Thrusters engaged
+    -   Fuel levels nominal
+    -   Thrusters engaged
 *   Liftoff!
 ```
 
@@ -140,7 +144,7 @@ Use numbers followed by periods.
 
 <br>
 
-### [\[L\]](#limited-support) Task Lists (GitHub Flavored)
+### [[L]](#limited-support) Task Lists
 
 Keep track of your to-dos.
 
@@ -149,18 +153,18 @@ Keep track of your to-dos.
 -   [ ] Conquer the galaxy
 
 ```markdown
-- [x] Write cheat sheet
-- [x] Add friendly examples
-- [ ] Conquer the galaxy
+-   [x] Write cheat sheet
+-   [x] Add friendly examples
+-   [ ] Conquer the galaxy
 ```
 
 <br>
-
----
-
+<br>
 <br>
 
-## Links & Media <img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/link.svg" width="28" height="28" alt="" />
+<span id="links-media"></span>
+
+## Links & Media<a href="#links-media"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/link.svg" width="28" height="28" align="right" /></a>
 
 <br>
 
@@ -190,27 +194,27 @@ Jump to [Basic Formatting](#basic-formatting) or jump to a <span id="custom-anch
 
 ### Images
 
-![A cute astronaut](https://cdn.xul.is/logo-xulbux-dark.svg "Xulbux Logo")
+![MD Mark](https://raw.githubusercontent.com/xulbux/markdown/main/assets/md-mark.svg "This is the MD Mark logo")
 
 ```markdown
-![A cute astronaut](https://cdn.xul.is/logo-xulbux-dark.svg "Xulbux Logo")
+![MD Mark](https://raw.githubusercontent.com/xulbux/markdown/main/assets/md-mark.svg "This is the MD Mark logo")
 ```
 
 For a specific size, you can use HTML:
 
-<img src="https://cdn.xul.is/logo-xulbux-dark.svg" height="96" alt="Xulbux Logo" title="Fixed Height Image" />
+<img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/md-mark.svg" width="96" alt="MD Mark" title="Fixed Width Image" />
 
 ```markdown
-<img src="https://cdn.xul.is/logo-xulbux-dark.svg" height="96" alt="Xulbux Logo" title="Fixed Height Image" />
+<img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/md-mark.svg" width="96" alt="MD Mark" title="Fixed Width Image" />
 ```
 
 <br>
-
----
-
+<br>
 <br>
 
-## Quotes & Code <img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/code.svg" width="28" height="28" alt="" />
+<span id="quotes-code"></span>
+
+## Quotes & Code<a href="#quotes-code"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/code.svg" width="28" height="28" align="right" /></a>
 
 <br>
 
@@ -266,11 +270,41 @@ def greet_user(name: str):
 
 <br>
 
----
+### Escaping Backticks
+
+To include backticks inside code formatting, wrap the code with more backticks than it contains.
+
+Inline escaping: `` `inline` ``
+
+Block escaping:
+
+````markdown
+```python
+print("Hello")
+```
+````
 
 <br>
 
-## Structure <img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/form.svg" width="28" height="28" alt="" />
+`````markdown
+Inline escaping: `` `inline` ``
+
+Block escaping:
+
+````markdown
+```python
+print("Hello")
+```
+````
+`````
+
+<br>
+<br>
+<br>
+
+<span id="structure"></span>
+
+## Structure<a href="#structure"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/form.svg" width="28" height="28" align="right" /></a>
 
 <br>
 
@@ -304,6 +338,8 @@ Separate content using three or more hyphens, asterisks, or underscores.
 
 ___
 
+<br>
+
 ```markdown
 ---
 
@@ -313,12 +349,12 @@ ___
 ```
 
 <br>
-
----
-
+<br>
 <br>
 
-## Advanced & GFM Features [\[L\]](#limited-support) <img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/rocket.svg" width="28" height="28" alt="" />
+<span id="advanced-gfm-features"></span>
+
+## [[L]](#limited-support) Advanced & GFM Features<a href="#advanced-gfm-features"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/rocket.svg" width="28" height="28" align="right" /></a>
 
 <br>
 
@@ -498,9 +534,10 @@ HTML
 : The standard markup language for documents designed to be displayed in a web browser.
 ```
 
-<br>
-<br>
-<br>
+<br><br>
+<br><br>
+<br><br>
+<br><br>
 
 ---
 
