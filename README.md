@@ -3,7 +3,7 @@
 <div align="center">
 <br><br>
 <h1>
-<a href="#"><img width="128" height="96" src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/md-mark.svg"></a>
+<a href="#"><img height="96" src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/md-mark.svg"></a>
 <br>
 Ultimate Markdown Cheat Sheet
 <br><br>
@@ -14,7 +14,7 @@ Ultimate Markdown Cheat Sheet
 
 <span id="table-of-contents"></span>
 
-## Table of Contents<a href="#table-of-contents"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/list.svg" width="28" height="28" align="right" /></a>
+## Table of Contents<a href="#table-of-contents"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/list.svg" height="28" align="right" /></a>
 
 -   [**Basic Formatting**](#basic-formatting) – Headings, Bold, Italic, etc.
 -   [**Lists & Tasks**](#lists-tasks) – Unordered, Ordered, Task Lists
@@ -33,7 +33,7 @@ Ultimate Markdown Cheat Sheet
 
 <span id="basic-formatting"></span>
 
-## Basic Formatting<a href="#basic-formatting"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/pen-tool.svg" width="28" height="28" align="right" /></a>
+## Basic Formatting<a href="#basic-formatting"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/pen-tool.svg" height="28" align="right" /></a>
 
 <br>
 
@@ -100,7 +100,7 @@ If you want to type symbols like `*` or `_` without triggering formatting, use a
 
 <span id="lists-tasks"></span>
 
-## Lists & Tasks<a href="#lists-tasks"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/list-todo.svg" width="28" height="28" align="right" /></a>
+## Lists & Tasks<a href="#lists-tasks"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/list-todo.svg" height="28" align="right" /></a>
 
 <br>
 
@@ -164,7 +164,7 @@ Keep track of your to-dos.
 
 <span id="links-media"></span>
 
-## Links & Media<a href="#links-media"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/link.svg" width="28" height="28" align="right" /></a>
+## Links & Media<a href="#links-media"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/link.svg" height="28" align="right" /></a>
 
 <br>
 
@@ -214,7 +214,7 @@ For a specific size, you can use HTML:
 
 <span id="quotes-code"></span>
 
-## Quotes & Code<a href="#quotes-code"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/code.svg" width="28" height="28" align="right" /></a>
+## Quotes & Code<a href="#quotes-code"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/code.svg" height="28" align="right" /></a>
 
 <br>
 
@@ -304,7 +304,7 @@ print("Hello")
 
 <span id="structure"></span>
 
-## Structure<a href="#structure"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/form.svg" width="28" height="28" align="right" /></a>
+## Structure<a href="#structure"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/form.svg" height="28" align="right" /></a>
 
 <br>
 
@@ -354,7 +354,7 @@ ___
 
 <span id="advanced-gfm-features"></span>
 
-## [[L]](#limited-support) Advanced & GFM Features<a href="#advanced-gfm-features"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/rocket.svg" width="28" height="28" align="right" /></a>
+## [[L]](#limited-support) Advanced & GFM Features<a href="#advanced-gfm-features"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/rocket.svg" height="28" align="right" /></a>
 
 <br>
 
