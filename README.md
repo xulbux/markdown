@@ -3,7 +3,7 @@
 <div align="center">
 <br><br>
 <h1>
-<a href="#"><img height="96" src="https://raw.githubusercontent.com/xulbux/python-lib-xulbux/main/assets/md-mark.svg"></a>
+<a href="#"><img height="96" src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/md-mark.svg"></a>
 <br>
 Ultimate Markdown Cheat Sheet
 <br><br>
@@ -14,14 +14,14 @@ Ultimate Markdown Cheat Sheet
 
 ---
 
-## Table of Contents <img src="https://raw.githubusercontent.com/xulbux/python-lib-xulbux/main/assets/icons/list.svg" width="28" height="28" alt="" />
+## Table of Contents <img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/list.svg" width="28" height="28" alt="" />
 
--   [Basic Formatting](#-basic-formatting) (Headings, Bold, Italic, etc.)
--   [Lists & Tasks](#-lists--tasks) (Unordered, Ordered, Task Lists)
--   [Links & Media](#-links--media) (URLs, Images, Anchors)
--   [Quotes & Code](#-quotes--code) (Blockquotes, Inline Code, Code Blocks)
--   [Structure](#-structure) (Tables, Horizontal Rules)
--   [Advanced & GFM Features](#-advanced--gfm-features-l) [\[L\]](#limited-support) (Alerts, Mermaid, Math, HTML)
+-   [Basic Formatting](#basic-formatting) (Headings, Bold, Italic, etc.)
+-   [Lists & Tasks](#lists--tasks) (Unordered, Ordered, Task Lists)
+-   [Links & Media](#links--media) (URLs, Images, Anchors)
+-   [Quotes & Code](#quotes--code) (Blockquotes, Inline Code, Code Blocks)
+-   [Structure](#structure) (Tables, Horizontal Rules)
+-   [Advanced & GFM Features](#advanced--gfm-features-l) [\[L\]](#limited-support) (Alerts, Mermaid, Math, HTML)
 
 <span id="limited-support"></span>
 
@@ -31,7 +31,7 @@ Ultimate Markdown Cheat Sheet
 
 <br>
 
-## ✍️ Basic Formatting
+## Basic Formatting <img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/pen-tool.svg" width="28" height="28" alt="" />
 
 <br>
 
@@ -96,7 +96,7 @@ If you want to type symbols like `*` or `_` without triggering formatting, use a
 
 <br>
 
-## 📝 Lists & Tasks
+## Lists & Tasks <img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/list-todo.svg" width="28" height="28" alt="" />
 
 <br>
 
@@ -160,7 +160,7 @@ Keep track of your to-dos.
 
 <br>
 
-## 🔗 Links & Media
+## Links & Media <img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/link.svg" width="28" height="28" alt="" />
 
 <br>
 
@@ -180,10 +180,10 @@ A formatted [link to GitHub](https://github.com "Visit GitHub") with hover text.
 
 ### Anchor Links
 
-Jump to [Basic Formatting](#-basic-formatting) or jump to a <span id="custom-anchor">custom hidden anchor</span>.
+Jump to [Basic Formatting](#basic-formatting) or jump to a <span id="custom-anchor">custom hidden anchor</span>.
 
 ```markdown
-Jump to [Basic Formatting](#-basic-formatting) or jump to a <span id="custom-anchor">custom hidden anchor</span>.
+Jump to [Basic Formatting](#basic-formatting) or jump to a <span id="custom-anchor">custom hidden anchor</span>.
 ```
 
 <br>
@@ -210,7 +210,7 @@ For a specific size, you can use HTML:
 
 <br>
 
-## 💬 Quotes & Code
+## Quotes & Code <img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/code.svg" width="28" height="28" alt="" />
 
 <br>
 
@@ -270,7 +270,7 @@ def greet_user(name: str):
 
 <br>
 
-## 🏗️ Structure
+## Structure <img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/form.svg" width="28" height="28" alt="" />
 
 <br>
 
@@ -318,7 +318,7 @@ ___
 
 <br>
 
-## 🚀 Advanced & GFM Features [\[L\]](#limited-support)
+## Advanced & GFM Features [\[L\]](#limited-support) <img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/rocket.svg" width="28" height="28" alt="" />
 
 <br>
 
@@ -501,11 +501,7 @@ HTML
 <br>
 <br>
 <br>
-<br>
 
 ---
 
-<div align="center">
-  <p>Happy Writing!</p>
-  <a href="#top">Back to top ↑</a>
-</div>
+✨ Always creating more cool stuff for you! ✨ —⠀[**XulbuX**](https://xulbux.com)
