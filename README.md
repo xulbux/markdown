@@ -170,8 +170,8 @@ Keep track of your to-dos.
 
 ### Links
 
-A simple automatic link: <https://www.markdownguide.org>  
-An email link: <hello@universe.com>  
+A simple automatic link: <https://www.markdownguide.org><br>
+An email link: <hello@universe.com><br>
 A formatted [link to GitHub](https://github.com "Visit GitHub") with hover text.
 
 ```markdown
@@ -218,11 +218,11 @@ For a specific size, you can use HTML:
 
 <br>
 
-### Blockquotes
+### Block Quotes
 
 Great for citing text or drawing attention.
 
-> "To infinity, and beyond!"
+> "To infinity, and beyond!"<br>
 > — Buzz Lightyear
 
 Nested quotes:
@@ -522,9 +522,9 @@ You can inject raw HTML/CSS into Markdown if supported.
 
 Some parsers support definition lists.
 
-Markdown
-: A lightweight markup language with plain-text-formatting syntax.
-HTML
+Markdown<br>
+: A lightweight markup language with plain-text-formatting syntax.<br>
+HTML<br>
 : The standard markup language for documents designed to be displayed in a web browser.
 
 ```markdown
