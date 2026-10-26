@@ -1,20 +1,19 @@
-<span id="top" />
-
 <div align="center">
-<br><br>
-<h1>
-<a href="#"><img height="96" src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/md-mark.svg"></a>
-<br>
-Ultimate Markdown Cheat Sheet
-<br><br>
-</h1>
-<h3>Your friendly, comprehensive, and beautiful guide to Markdown syntax.</h3>
-<br><br>
+  <br><br>
+  <h1>
+    <a href="https://github.com/xulbux/markdown"><img height="96" src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/md-mark.svg"></a>
+    <br>
+    Ultimate Markdown Cheat Sheet
+    <br><br>
+    <a href="https://github.com/xulbux/markdown/blob/main/LICENSE"><img src="https://svg.xul.is/badge/gh/xulbux/markdown/license?variant=3&color=neutral" /></a>
+    <a href="https://github.com/xulbux/markdown/commits"><img src="https://svg.xul.is/badge/gh/xulbux/markdown/commit?variant=3&color=neutral"/></a>
+    <a href="https://github.com/sponsors/xulbux"><img src="https://svg.xul.is/badge/Sponsor?variant=2&color=rose&icon=heart&anim=pulse"/></a>
+  </h1>
+  <h3>Your friendly, comprehensive, and beautiful guide to Markdown syntax.</h3>
+  <br><br>
 </div>
 
-<span id="table-of-contents"></span>
-
-## Table of Contents <a href="#table-of-contents"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/list.svg" width="24" /></a>
+## <a href="#table-of-contents"><img src="https://svg.xul.is/icon/list?size=32&stroke=2" align="left" /></a>Table of Contents
 
 -   [**Basic Formatting**](#basic-formatting) – Headings, Bold, Italic, etc.
 -   [**Lists & Tasks**](#lists-tasks) – Unordered, Ordered, Task Lists
@@ -31,9 +30,7 @@ Ultimate Markdown Cheat Sheet
 <br>
 <br>
 
-<span id="basic-formatting"></span>
-
-## Basic Formatting <a href="#basic-formatting"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/pen-tool.svg" width="24" /></a>
+## <a href="#basic-formatting"><img src="https://svg.xul.is/icon/pen-tool?size=32&stroke=2" align="left" /></a>Basic Formatting
 
 <br>
 
@@ -100,7 +97,7 @@ If you want to type symbols like `*` or `_` without triggering formatting, use a
 
 <span id="lists-tasks"></span>
 
-## Lists & Tasks <a href="#lists-tasks"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/list-todo.svg" width="24" /></a>
+## <a href="#lists-tasks"><img src="https://svg.xul.is/icon/list-todo?size=32&stroke=2" align="left" /></a>Lists & Tasks
 
 <br>
 
@@ -164,7 +161,7 @@ Keep track of your to-dos.
 
 <span id="links-media"></span>
 
-## Links & Media <a href="#links-media"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/link.svg" width="24" /></a>
+## <a href="#links-media"><img src="https://svg.xul.is/icon/link?size=32&stroke=2" align="left" /></a>Links & Media
 
 <br>
 
@@ -202,10 +199,10 @@ Jump to [Basic Formatting](#basic-formatting) or jump to a <span id="custom-anch
 
 For a specific size, you can use HTML:
 
-<img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/md-mark.svg" width="96" alt="MD Mark" title="Fixed Width Image" />
+<img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/md-mark.svg" height="64" alt="MD Mark" title="Fixed Height Image" />
 
 ```markdown
-<img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/md-mark.svg" width="96" alt="MD Mark" title="Fixed Width Image" />
+<img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/md-mark.svg" height="64" alt="MD Mark" title="Fixed Height Image" />
 ```
 
 <br>
@@ -214,7 +211,7 @@ For a specific size, you can use HTML:
 
 <span id="quotes-code"></span>
 
-## Quotes & Code <a href="#quotes-code"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/code.svg" width="24" /></a>
+## <a href="#quotes-code"><img src="https://svg.xul.is/icon/code?size=32&stroke=2" align="left" /></a>Quotes & Code
 
 <br>
 
@@ -302,9 +299,7 @@ print("Hello")
 <br>
 <br>
 
-<span id="structure"></span>
-
-## Structure <a href="#structure"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/form.svg" width="24" /></a>
+## <a href="#structure"><img src="https://svg.xul.is/icon/table?size=32&stroke=2" align="left" /></a>Structure
 
 <br>
 
@@ -354,7 +349,7 @@ ___
 
 <span id="advanced-gfm-features"></span>
 
-## [[L]](#limited-support) Advanced & GFM Features <a href="#advanced-gfm-features"><img src="https://raw.githubusercontent.com/xulbux/markdown/main/assets/icons/rocket.svg" width="24" /></a>
+## <a href="#advanced-gfm-features"><img src="https://svg.xul.is/icon/rocket?size=32&stroke=2" align="left" /></a>[[L]](#limited-support) Advanced & GFM Features
 
 <br>
 
@@ -539,6 +534,14 @@ HTML
 <br><br>
 <br><br>
 
+## Enjoying this cheat sheet?&numsp;Have suggestions?
+
+Please consider giving a [![star](https://svg.xul.is/icon/star?size=20&anim=shake)](https://github.com/xulbux/markdown) on [**GitHub**](https://github.com/xulbux/markdown) or [**opening an issue**](https://github.com/xulbux/markdown/issues) with suggestions.
+
+<br>
+<br>
+<br>
+
 ---
 
-✨ Always creating more cool stuff for you! ✨ —⠀[**XulbuX**](https://xulbux.com)
+[![](https://svg.xul.is/icon/sparkles?size=20)](https://xulbux.com) Always creating more cool stuff for you! [![](https://svg.xul.is/icon/sparkles?size=20)](https://xulbux.com)&emsp;—&numsp;[**XulbuX**](https://xulbux.com)
